@@ -22,7 +22,7 @@ class BankAccount {
     }
 
     void checkBalance() {
-        System.out.println("Balance: ₹" + balance);
+        System.out.println("Balance: ₹ " + balance);
     }
 }
 
